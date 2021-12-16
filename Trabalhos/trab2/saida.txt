@@ -1,0 +1,113 @@
+Preenchendo a arvore...
+info: 15 altura: 0 pai: (nil)
+
+
+info: 10 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 10 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 18 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 18 altura: 0 pai: (nil)
+info: 25 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 16 altura: 0 pai: (nil)
+info: 18 altura: 0 pai: (nil)
+info: 25 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 16 altura: 0 pai: (nil)
+info: 19 altura: 0 pai: (nil)
+info: 18 altura: 0 pai: (nil)
+info: 25 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 16 altura: 0 pai: (nil)
+info: 19 altura: 0 pai: (nil)
+info: 18 altura: 0 pai: (nil)
+info: 22 altura: 0 pai: (nil)
+info: 25 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+info: 5 altura: 0 pai: (nil)
+info: 10 altura: 0 pai: (nil)
+info: 16 altura: 0 pai: (nil)
+info: 19 altura: 0 pai: (nil)
+info: 18 altura: 0 pai: (nil)
+info: 22 altura: 0 pai: (nil)
+info: 30 altura: 0 pai: (nil)
+info: 25 altura: 0 pai: (nil)
+info: 20 altura: 0 pai: (nil)
+info: 15 altura: 0 pai: (nil)
+
+
+
+Preenchendo pai...
+
+info: 5 altura: 0 pai: 10
+info: 10 altura: 0 pai: 15
+info: 16 altura: 0 pai: 18
+info: 19 altura: 0 pai: 18
+info: 18 altura: 0 pai: 20
+info: 21 altura: 0 pai: 22
+info: 22 altura: 0 pai: 25
+info: 30 altura: 0 pai: 25
+info: 25 altura: 0 pai: 20
+info: 20 altura: 0 pai: 15
+info: 15 altura: 0 pai: (nil)
+
+Preenchendo as alturas...
+
+info: 5 altura: 2 pai: 10
+info: 10 altura: 1 pai: 15
+info: 16 altura: 3 pai: 18
+info: 19 altura: 3 pai: 18
+info: 18 altura: 2 pai: 20
+info: 21 altura: 4 pai: 22
+info: 22 altura: 3 pai: 25
+info: 30 altura: 3 pai: 25
+info: 25 altura: 2 pai: 20
+info: 20 altura: 1 pai: 15
+info: 15 altura: 0 pai: (nil)
+
+
+Exibindo a arvore em níveis...
+
+15 
+10 20 
+5 18 25 
+16 19 22 30 
+21 
